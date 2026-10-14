@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow — Restoran va Kafe Boshqaruvi",
+  "description": "DineFlow — Zamonaviy restoranlar uchun raqamli menyu, QR buyurtma berish, ofitsiant va oshxona KDS tizimi hamda to'liq administrator paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
